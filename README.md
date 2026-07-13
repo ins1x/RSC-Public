@@ -2,13 +2,6 @@
 
 ![RSC LOGO](https://github.com/ins1x/RSC-Public/raw/main/scriptfiles/img/RSC.jpg)
 
-![Wiki](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/github-icon.png)
-[Wiki-pages](https://github.com/ins1x/RSC-Public/blob/main/wiki/Home.md) | 
-![](https://icons.iconarchive.com/icons/icons8/windows-8/24/Healthcare-Groups-icon.png)
-[Website](https://sturmstaffel.ru) |
-![VK group](https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Vk-icon.png)  https://vk.com/sawncommunity | 
-![Discord](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/discord-icon.png) https://dsc.gg/sawncommunity  
-
 ## Features
 - Fixed known [issues causing problems](https://team.sa-mp.com/wiki/Bugs.html) on the SA:MP server 
 - [SAMPCAC](https://github.com/ins1x/sampcac-docs/) and [Nex-AC](https://github.com/NexiusTailer/Nex-AC) Anticheat integration  
@@ -38,4 +31,4 @@ Look [technical documentation](https://github.com/ins1x/RSC-Public/blob/main/gam
 > Players with SAMPCAC must connect from the [SA-MP 0.3.7 R1 Client](https://github.com/ins1x/sampcac-docs/raw/main/client/sa-mp-0.3.7-install.exe)
 
 ## Disclaimer
-This is a public version of the gamemode, and does not contain the player database, admins, or other personal data from the original RSC server.
+This is a public version of the gamemode, and does not contain the player database, admin info, or other personal data from the original RSC server.
