@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+#* text=auto
+#* linguist-vendored
+#*.php linguist-vendored=false
+#*.pwn linguist-language=Pawn working-tree-encoding=windows-1251
+#*.*	working-tree-encoding=CP1251	eol=CRLF
+*.pwn working-tree-encoding=windows-1251 eol=CRLF
+*.inc linguist-language=Pawn
+*.pwn linguist-language=Pawn 
