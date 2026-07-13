@@ -1,0 +1,1 @@
+fc /c /n cwPublicStable.pwn cwPublic.pwn > diff.txt
