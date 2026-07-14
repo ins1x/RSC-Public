@@ -16,19 +16,22 @@
 - A unique system of virtual worlds with a wide range of features  
 - NPCs system for training players [FCNPC](https://github.com/ziggi/FCNPC)   
 
-## Build recomendations
-Look [technical documentation](https://github.com/ins1x/RSC-Public/blob/main/gamemodes/TechnicalDocumentation.md)
+## Demo
+![](https://i.ibb.co/cX2Tf1sw/mg-31-10-2023-08-16-36-0.png)
 
-## Requirements
-* [SA:MP 0.3.7 R2 server](https://samp.romzes.com/files/samp037_svr_R2-2-1_win32.zip) or highter
-* [Incognito Streamer 2.9 plugin](https://github.com/samp-incognito/samp-streamer-plugin/releases)
-* [Crashdetect 4.19 plugin](https://github.com/Zeex/samp-plugin-crashdetect/releases)
-* [Sscanf 2.8 plugin](https://github.com/Y-Less/sscanf/releases)
-* [YSF 2.1 plugin](https://github.com/IllidanS4/YSF) 
-* [SAMPCAC 0.10.0 plugin](https://github.com/ins1x/RSC-Public/blob/main/include/sampcac.inc) 
-* [FCNPC 2.0.8 plugin](https://github.com/ziggi/FCNPC)
+- [Maps showcase](https://youtu.be/wYNXpGuOr80?si=Na4i_4DS2nA6608M)
+- [Start CW Demo](https://youtu.be/zW9nJyl9vW8?si=5AL_GnSKxhAW8bz5)
+- [Virtual worlds system](https://youtu.be/OtpIqWYsork?si=daODNVQdpVdSkeh4)
+- [Mingames](https://youtu.be/g1rppFF21ak?si=XmKEY_p45Ruki5bJ)
+- [Player attaches](https://youtu.be/pAr5wTGOpU8?si=csN1_XBLTsHxxaPy)
 
-> Players with SAMPCAC must connect from the [SA-MP 0.3.7 R1 Client](https://github.com/ins1x/sampcac-docs/raw/main/client/sa-mp-0.3.7-install.exe)
+More demo:  
+- [Demo on YouTube - 1nsanemapping channel](https://www.youtube.com/playlist?list=PLHO7lIOSYAVVT0bVsFeFU9xUIA2mW-NvM) 
+- [Google Drive Gallery](https://drive.google.com/drive/folders/1E4LCmlu7UtlrOotWzamymHgi4Y8oe7sW)  
+- [Halloween location on - ImageBB Gallery](https://ibb.co/album/NTkhpy)
+
+## Build recomendations and requirements
+Look [technical documentation on RSC-wiki](https://github.com/ins1x/RSC-Public/wiki/Technical-Documentation)
 
 ## Disclaimer
 This is a public version of the gamemode, and does not contain the player database, admin info, or other personal data from the original RSC server.
