@@ -17,7 +17,6 @@
 - NPCs system for training players [FCNPC](https://github.com/ziggi/FCNPC)   
 
 ## Demo
-![](https://i.ibb.co/cX2Tf1sw/mg-31-10-2023-08-16-36-0.png)
 
 - [Maps showcase](https://youtu.be/wYNXpGuOr80?si=Na4i_4DS2nA6608M)
 - [Start CW Demo](https://youtu.be/zW9nJyl9vW8?si=5AL_GnSKxhAW8bz5)
